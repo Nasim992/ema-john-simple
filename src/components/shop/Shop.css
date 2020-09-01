@@ -1,0 +1,18 @@
+.shopContainer {
+
+    display: flex;
+
+}
+.productContainer{
+   
+    width:70%;
+    margin-right:10px;
+    margin-left: 40px;
+    border-right:1px solid gray ;
+
+}
+.shoppingCart{
+
+   
+
+}
